@@ -1,0 +1,18 @@
+Name: 
+Gender: 
+Age: 
+Attempt: 1
+
+the time you use: 102.7919
+the Average time you use is:9.344721
+Location:Apple Time used: 12.22
+Location:Aveda Time used: 2.199997
+Location:BILANCIONI Time used: 9.68
+Location:Diesel Time used: 2.18
+Location:Duchamp Time used: 14.53193
+Location:Fossil Time used: 4.300003
+Location:Geox Time used: 3.18
+Location:guess Time used: 1.840004
+Location:nike Time used: 3.739998
+Location:Swatch Time used: 16.04
+Location:Tommy Time used: 32.88
